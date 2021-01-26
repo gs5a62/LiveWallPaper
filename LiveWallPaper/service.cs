@@ -18,7 +18,6 @@ namespace LiveWallPaper
         {
             InitializeComponent();
         }
-        //Test Comment
         private void entry_Load(object sender, EventArgs e)
         {
             Task.Factory.StartNew(() =>
